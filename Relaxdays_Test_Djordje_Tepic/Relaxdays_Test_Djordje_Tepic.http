@@ -1,0 +1,6 @@
+@Relaxdays_Test_Djordje_Tepic_HostAddress = http://localhost:5170
+
+GET {{Relaxdays_Test_Djordje_Tepic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
